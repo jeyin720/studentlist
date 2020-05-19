@@ -8,5 +8,10 @@ namespace studentlist
 {
     class StudentList
     {
+        public String id;
+        public String name;
+        public int grade;
+        public string major;
+        public DateTime birthday;
     }
 }
